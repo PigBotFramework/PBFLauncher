@@ -1,0 +1,5 @@
+*.sh
+*.log
+resources/createimg/
+__pycache__
+.vscode
